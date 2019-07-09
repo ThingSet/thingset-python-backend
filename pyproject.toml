@@ -4,6 +4,7 @@ version = "0.1.0"
 homepage = "https://thingset.github.io/"
 description = "A Python v3.6+ implemetation of the ThingSet protocol, for control, configuration and monitoring of connected devices"
 licence = "Apache-2.0"
+readme = "README.md"
 repository = "https://github.com/ThingSet/thingset-python"
 authors = ["Olivier Philippon <olivier@connectedenergy.net>"]
 classifiers = [
