@@ -1,0 +1,2 @@
+# Locking dependencies for a library might not be the best choice, so let's ignore that file :-)
+/poetry.lock
